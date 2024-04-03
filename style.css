@@ -1,7 +1,7 @@
-h1 {color: blue;
+h1 {color: rgb(21, 21, 107);
 }
 
-h2 { color: blueviolet;
+h2 { color: rgb(44, 21, 66);
 }
 
 h3 {color: firebrick;
@@ -13,7 +13,7 @@ h1 {text-align:center ;
 h2 {text-align: right;
 }
 
-h3 {border-color: rgb(0, 255, 242);
+h3 {border-color: rgb(20, 80, 77);
     border-style: solid;
     border-width: 5px;
 }
